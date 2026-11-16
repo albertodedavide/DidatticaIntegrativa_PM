@@ -1,0 +1,4 @@
+# LabVIEW: stato e impostazioni locali dell'utente
+.*.UserState/
+*.lvlps
+*.aliases
